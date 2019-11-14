@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\jgmu6\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\jgmu6\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_Ocean.-228206053.00" t="ExcludeRecursive" />
+    <e p="C:\Users\jgmu6\Desktop\unity_migrate\Ocean" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Scripts" t="Include">
+          <e p="BoatMovement.cs" t="Include" />
+          <e p="LogDebugHelper.cs" t="Include" />
+          <e p="Ocean.cs" t="Include" />
+          <e p="PhysicsHelper.cs" t="Include" />
+          <e p="SimpleCameraController.cs" t="Include" />
+          <e p="WaterFloat.cs" t="Include" />
+          <e p="Waves.cs" t="Include" />
+          <e p="WiiInputControler.cs" t="Include" />
+        </e>
+        <e p="Wiimote" t="Include">
+          <e p="Scripts" t="Include">
+            <e p="Enums.cs" t="Include" />
+            <e p="HIDapi.cs" t="Include" />
+            <e p="Internal" t="Include">
+              <e p="ReadOnlyArray.cs" t="Include" />
+              <e p="RegisterReadData.cs" t="Include" />
+            </e>
+            <e p="Wiimote.cs" t="Include" />
+            <e p="WiimoteData" t="Include">
+              <e p="AccelData.cs" t="Include" />
+              <e p="ButtonData.cs" t="Include" />
+              <e p="ClassicControllerData.cs" t="Include" />
+              <e p="IRData.cs" t="Include" />
+              <e p="MotionPlusData.cs" t="Include" />
+              <e p="NunchuckData.cs" t="Include" />
+              <e p="StatusData.cs" t="Include" />
+              <e p="WiimoteData.cs" t="Include" />
+              <e p="WiiUProData.cs" t="Include" />
+            </e>
+            <e p="WiimoteManager.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Ocean.sln" t="IncludeFlat" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
