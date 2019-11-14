@@ -5,6 +5,7 @@ This is a university project, which the goal is to make a interactive program bu
 The game have no goal neither a way to win. It is just yourself in a tiny boat, where you can navigate using the wii controler as an oar.
 
 
+
 ## How to use the Wii Controler/play the game:
   The controler must be hold with both hands, and by start must have the IR (infrared) sensor facing upwards, and the A button facing you.
   
@@ -14,7 +15,7 @@ The game have no goal neither a way to win. It is just yourself in a tiny boat, 
   
   
   
-  
+### Notes
 Have fun exploring the mini sea.
 
 This project is incomplete, since its aim was to implement a different way to input comands/control the game. There's a kinda empty map (sea) and you can fly off it. Also there's no sound implemented.
