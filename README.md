@@ -19,6 +19,6 @@ Have fun exploring the mini sea.
 
 This project is incomplete, since its aim was to implement a different way to input comands/control the game. There's a kinda empty map (sea) and you can fly off it. Also there's no sound implemented.
 
-Feel free to colaborate to this project and use it's code.
+Feel free to colaborate to this project and use its code.
   
 
