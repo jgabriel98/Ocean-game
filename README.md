@@ -16,7 +16,7 @@ The game have no goal neither a way to win. It is just yourself in a tiny boat, 
   
   
 ### Notes
-Have fun exploring the mini sea.
+This is a Unity project
 
 This project is incomplete, since its aim was to implement a different way to input comands/control the game. There's a kinda empty map (sea) and you can fly off it. Also there's no sound implemented.
 
@@ -24,3 +24,5 @@ Feel free to colaborate to this project and use its code.
   
 
 The game should work on Windows and MAC OS, and also on linux if you get to link the libhid library to the project (i tried it for 1 week and gave up, migrating the project to windows). It was tested on Windows 10 only.
+
+Have fun exploring the mini sea.
