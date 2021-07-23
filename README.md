@@ -9,9 +9,9 @@ The game have no goal neither a way to win. It is just yourself in a tiny boat, 
 ## How to use the Wii Controler/play the game:
   The controler must be hold with both hands, and by start must have the IR (infrared) sensor facing upwards, and the A button facing you.
   
-  To row left, put the controler on your left ( still using both hands) and move it like you where realy rowing the boat on its left side. There is no problem in lean the controler clockWise, actually thats how it detects that you are rowing on the left side.
+  To paddle/row left, put the controler on your left ( still using both hands) and move it like you where realy rowing the boat on its left side. There is no problem in lean the controler clockWise, actually thats how it detects that you are rowing on the left side.
   
-  To row left, put the controler on your right ( still using both hands) and move it like you where realy rowing the boat on its right side. There is no problem in lean the controler anti-clockwise, actually thats how it detects that you are rowing on the right side.
+  To paddle/row left, put the controler on your right ( still using both hands) and move it like you where realy rowing the boat on its right side. There is no problem in lean the controler anti-clockwise, actually thats how it detects that you are rowing on the right side.
   
   
   
