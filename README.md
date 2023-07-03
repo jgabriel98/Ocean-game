@@ -6,8 +6,7 @@ The game have no goal neither a way to win. It is just yourself in a tiny boat, 
 
 Demonstration video:
 
-https://github.com/jgabriel98/Ocean-game/assets/37881981/c9104b05-6cbb-4cd8-a34b-4fcea41b4284
-
+https://github.com/jgabriel98/Ocean-game/assets/37881981/02d3d59a-d2aa-473d-ad37-9da4835edfe9
 
 
 
