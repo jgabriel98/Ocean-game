@@ -4,6 +4,11 @@ This is a university project, which the goal is to make a interactive program bu
 
 The game have no goal neither a way to win. It is just yourself in a tiny boat, where you can navigate using the wii controler as an oar.
 
+Demonstration video:
+
+https://github.com/jgabriel98/Ocean-game/assets/37881981/c9104b05-6cbb-4cd8-a34b-4fcea41b4284
+
+
 
 
 ## How to use the Wii Controler/play the game:
